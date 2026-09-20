@@ -10,10 +10,6 @@ publicly reachable without a login.
 | Privacy Policy | `https://<org>.github.io/legal/privacy.html` |
 | Terms of Service | `https://<org>.github.io/legal/terms.html` |
 
-## Before this goes public
-
-- [ ] Fill in `[JURISDICTION]` in `terms.html` §10.
-
 ## Editing
 
 Plain static HTML, no build step. Edit and push; Pages redeploys in about a minute.
